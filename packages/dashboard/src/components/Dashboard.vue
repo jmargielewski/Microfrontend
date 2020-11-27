@@ -342,7 +342,6 @@ export default {
   },
 };
 </script>
-
 <style lang="scss" scoped>
 @media screen and (max-width: 960px) {
   ::v-deep(.p-datatable) {
